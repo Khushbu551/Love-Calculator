@@ -14,17 +14,14 @@ It takes two names as input and calculates a fun love percentage between them �
   - 😊 Between 41%–70%
   - 🤞 Between 21%–40%
   - 💔 Below 20%
-- Name formatting (First letter capitalized)
-- Input validation (empty fields not allowed)
-- Fully responsive (if styled properly in CSS)
 
 ---
 
 ## 🛠 Tech Used
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML
+- CSS
+- JavaScript
 
 **Note:** THis project was built for learning purposes to explore and practice [mention technologies]. Security and production-level optimizations are not the primary focus.
 
